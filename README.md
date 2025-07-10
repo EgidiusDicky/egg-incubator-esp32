@@ -12,6 +12,10 @@ This project is an **IoT-based incubator controller** built with ESP32. It uses 
 
 ---
 
+![Egg Incubator](assets/egg-incubator1.jpg)
+
+---
+
 ## 🚀 Features
 
 - 🔥 Automatic **temperature control** with dimmer lamp
