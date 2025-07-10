@@ -10,8 +10,6 @@ This project is an **IoT-based incubator controller** built with ESP32. It uses 
 
 ![Wiring Schematic](assets/wiring-schematic.png)
 
-> This diagram shows the core components: ESP32, sensors, actuators, and cloud services (Blynk + ThingSpeak).
-
 ---
 
 ## 🚀 Features
@@ -71,6 +69,9 @@ const char* password = "your-wifi-password";
 #define BLYNK_TEMPLATE_ID "your-blynk-template-id"
 #define BLYNK_TEMPLATE_NAME "your-blynk-template-name"
 #define BLYNK_AUTH_TOKEN "your-blynk-auth-token"
+```
+
+---
 
 ## 🧠 System Logic
 
